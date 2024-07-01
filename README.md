@@ -1,4 +1,4 @@
-# Online Payment Fraud Detection Classification Project
+# Online Payment Fraud Detection  Project
 
 This project aims to detect online payment fraud using machine learning algorithms, specifically Logistic Regression, Decision Tree, and Random Forest.
 
