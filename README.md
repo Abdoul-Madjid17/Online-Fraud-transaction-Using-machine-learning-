@@ -2,7 +2,7 @@
 
 This project aims to detect online payment fraud using machine learning algorithms, specifically Logistic Regression, Decision Tree, and Random Forest.
 
-#Team members:
+# Team members:
 
 - ABDOUL MADJID MAROU, 200041254 
 - BRAHIMA DIARRASSOUBA, 200041262 
